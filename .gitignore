@@ -14,3 +14,5 @@ htmlcov/
 .coverage
 *.log
 reports/
+LEARNING.md
+CLAUDE.md
