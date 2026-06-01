@@ -1,0 +1,7 @@
+[
+  "What are the trade-offs between RAG and fine-tuning for production LLMs?",
+  "How does LangGraph differ from vanilla LangChain for agent orchestration?",
+  "What metrics matter most when evaluating a RAG pipeline?",
+  "Compare vector databases: Qdrant vs Pinecone vs Weaviate",
+  "What is the role of a critic agent in a multi-agent system?"
+]
